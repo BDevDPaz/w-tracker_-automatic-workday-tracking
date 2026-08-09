@@ -1,0 +1,6 @@
+{
+  "name": "W Tracker",
+  "description": "Plataforma de seguimiento de jornada laboral con Auto-Check, geocercas, múltiples destinos, traslados remunerados y auditoría de nómina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
